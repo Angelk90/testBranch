@@ -1,3 +1,1 @@
-function f() {
-    return ""
-}
+function f() { return 0 }
